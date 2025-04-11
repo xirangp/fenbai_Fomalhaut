@@ -101,4 +101,6 @@ theme: hexo-theme-Fomalhaut
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/chenxirang/fenbai_Fomalhaut.git
+  branch: main
